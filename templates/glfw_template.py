@@ -1,6 +1,7 @@
 # Simple template to bootstrap experiments
 
 import glfw
+import numpy as np
 from OpenGL.GL import *
 
 WIDTH = 1280
